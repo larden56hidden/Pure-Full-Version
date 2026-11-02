@@ -240,4 +240,4 @@ This repository serves as the official landing page for Pure. The software is di
 **Get the most recent version of Pure today!**
 
 ---
-**Last updated:** 2026-11-01 20:16:39 UTC
+**Last updated:** 2026-11-02 00:20:13 UTC
